@@ -1,7 +1,8 @@
 # The Travel App
 Travel planning shouldn't require dozens of browser tabs. 
 
-This project explores a smarter way to plan trips by combining AI with a structured, step-by-step planning experience. Rather than replacing the traveler's decision-making, the goal is to reduce the time, mental effort, and stress involved in organizing a trip.
+This project explores a smarter way to plan trips through a structured, step-by-step planning experience that helps travelers organize every decision in one place. 
+By leveraging AI where it provides real value, the platform aims to reduce the time and mental effort involved in comparing options, organizing information, and building personalized itineraries—without taking decision-making away from the traveler.
 
 Planning a journey often requires switching between multiple websites to compare flights, accommodation, transportation, attractions, restaurantes, and local events. As planning progresses, travelers quickly accumulate browser tabs, scattered notes, and fragmented information, making the process overwhelming and difficult to manage.
 
